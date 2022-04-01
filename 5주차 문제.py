@@ -1,1 +1,0 @@
-'     CLASS JAVA'를 'Class Python'으로 변경하여 출력한 뒤 7번째 문자열을 출력하세요.
